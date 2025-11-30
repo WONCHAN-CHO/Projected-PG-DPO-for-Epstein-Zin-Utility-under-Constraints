@@ -68,4 +68,4 @@ python train.py --mode constrained --leverage_limit 1.5
 - Tian, D., et al., *"Optimal Consumption-Investment with Epstein-Zin Utility under Leverage Constraint"* (2025)
 - Herdegen, M., et al., *"The infinite-horizon investment-consumption problem for Epstein-Zin stochastic differential utility"* (2022)
 
-For questions or collaboration proposals, please open an Issue or Pull Request.
+For questions or collaboration proposals, please email chln0124@skku.edu.
